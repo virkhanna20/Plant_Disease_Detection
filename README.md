@@ -1,6 +1,7 @@
 # Plant Disease Recognition System 🌿🔍
 
 This project implements a web application for identifying plant diseases from images using a trained deep learning model. 
+Dataset Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 ## Features
 
