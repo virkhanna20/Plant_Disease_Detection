@@ -7,7 +7,7 @@ Dataset Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-datas
 
 - **User-friendly web interface:** Easily upload an image of your plant for analysis.
 - **Fast and accurate predictions:**  Receive disease predictions in seconds.
-- **[Optional: List any specific diseases your model can identify]**
+
 
 ## How to Run
 
